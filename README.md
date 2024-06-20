@@ -16,7 +16,7 @@ This is the official implementation of "EMDA-Net: Earth Mover’s Distance (EMD)
 ![tsne](https://github.com/SuryaMajumder/EMDA-Net-Earth-Mover-s-Distance-influenced-Attention-aided-Network-for-Medical-Image-Classification/assets/111181100/d1ccf190-eec4-4040-b19e-dd6101a2bf96)
 
 ## Authors :sunglasses:*
-Surya Majumder<br/>
+[Surya Majumder](https://www.linkedin.com/in/surya-majumder-333891246/)<br/>
 Kushaj Mallick<br/>
 Wrick Pal<br/>
 Somenath Chakraborty<br/>
