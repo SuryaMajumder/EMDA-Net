@@ -17,9 +17,9 @@ This is the official implementation of "EMDA-Net: Earth Mover’s Distance (EMD)
 
 ## Authors :sunglasses:*
 [Surya Majumder](https://www.linkedin.com/in/surya-majumder-333891246/)<br/>
-Kushaj Mallick<br/>
-Wrick Pal<br/>
-Somenath Chakraborty<br/>
+[Kushaj Mallick]()<br/>
+[Wrick Pal]()<br/>
+[Somenath Chakraborty](https://www.linkedin.com/in/somenath-chakraborty/)<br/>
 [Ram Sarkar](http://www.jaduniv.edu.in/profile.php?uid=686)<br/>
 
 ## Citation :thinking:*
