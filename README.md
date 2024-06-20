@@ -20,7 +20,7 @@ This is the official implementation of "EMDA-Net: Earth Mover’s Distance (EMD)
 Kushaj Mallick<br/>
 Wrick Pal<br/>
 Somenath Chakraborty<br/>
-Ram Sarkar<br/>
+[Ram Sarkar](http://www.jaduniv.edu.in/profile.php?uid=686)<br/>
 
 ## Citation :thinking:*
 Please do cite our paper in case you find it useful for your research.<br/>
